@@ -619,6 +619,15 @@ body footer .wrap .box .contacts .wp .csc span {
     -ms-grid-column-span: 2;
     grid-area: info;
   }
+  body .home .wrap .box .info .about {
+    font-size: 17px;
+  }
+  body .home .wrap .box .info .name {
+    font-size: 21px;
+  }
+  body .home .wrap .box .info .role {
+    font-size: 21px;
+  }
   body .home .wrap .box .avatar {
     -ms-grid-row: 1;
     -ms-grid-column: 3;
@@ -660,6 +669,15 @@ body footer .wrap .box .contacts .wp .csc span {
     -ms-grid-column: 1;
     -ms-grid-column-span: 2;
     grid-area: info;
+  }
+  body .home .wrap .box .info .role {
+    font-size: 18px;
+  }
+  body .home .wrap .box .info .name {
+    font-size: 22px;
+  }
+  body .home .wrap .box .info .about {
+    font-size: 18px;
   }
   body .home .wrap .box .avatar {
     -ms-grid-row: 1;

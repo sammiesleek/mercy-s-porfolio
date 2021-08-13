@@ -503,6 +503,15 @@ body{
                          'info info image';
                         .info{
                             grid-area:info;
+                            .about{
+                                font-size:17px;
+                            }
+                            .name{
+                                font-size:21px;
+                            }
+                            .role{
+                                font-size:21px;
+                            }
                         }
                         .avatar{
                             grid-area: image;
@@ -557,6 +566,15 @@ body{
                          'info info image';
                         .info{
                             grid-area:info;
+                            .role{
+                                font-size:18px;
+                            }
+                            .name{
+                                font-size:22px ;
+                            }
+                            .about{
+                                font-size:18px;
+                            }
                         }
                         .avatar{
                             grid-area: image;
