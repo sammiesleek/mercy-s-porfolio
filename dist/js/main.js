@@ -25,7 +25,7 @@ if(screen.width < 600){
 
 const sections = document.querySelectorAll('.sect')
 sections.forEach(sect => {
-    // console.log(sect.offsetTop)
+    console.log(sect.offsetTop)
     console.log(sect.offsetHeight)
     window.pageXOffset=1000;
 });
