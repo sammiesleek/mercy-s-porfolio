@@ -671,13 +671,13 @@ body footer .wrap .box .contacts .wp .csc span {
     grid-area: info;
   }
   body .home .wrap .box .info .role {
-    font-size: 18px;
+    font-size: 23px;
   }
   body .home .wrap .box .info .name {
-    font-size: 22px;
+    font-size: 30px;
   }
   body .home .wrap .box .info .about {
-    font-size: 18px;
+    font-size: 20px;
   }
   body .home .wrap .box .avatar {
     -ms-grid-row: 1;
